@@ -21,6 +21,4 @@
   <li> https://t.me/Vagastech </li>
 </ul>
 
-
-
 **let's elevate!**

@@ -7,6 +7,11 @@
 
 <p> Líder na América Latina, a B2W Digital tem um modelo de negócio único, multicanal, multimarca e multinegócio. A Companhia atua nas seguintes frentes: e-commerce nas marcas Americanas.com, Submarino, Shoptime e Sou Barato; plataformas de serviços de crédito ao consumidor, com o Submarino Finance e o Digital Finance; plataforma de tecnologia; plataforma de logística, distribuição e atendimento ao cliente; e Marketplace. </p>
 
+<p> Estamos contrantando Desenvolvedores Back-end, Front-end e Fullstack. </p>
+
+<p> Caso você esteja buscando um local onde possa adquirir novos conhecimentos e contribuir de forma ativa em grandes projetos a B2W Digital é o Local ideal. </p>
+
+  
 **Nossas Vagas**
 <ul>
   <li> Developers Back-end - https://b2w.gupy.io/jobs/7956 </li>

@@ -16,7 +16,7 @@
 <p> Caso você esteja buscando um local onde possa adquirir novos conhecimentos e contribuir de forma ativa em grandes projetos a B2W Digital é o Local ideal. </p>
 
   
-**Nossas Vagas**
+**Algumas de nossas vagas**
 <ul>
   <li> Developers Back-end - https://b2w.gupy.io/jobs/23866 </li>
   <li> Developers Back-end Pl/Sr - https://b2w.gupy.io/jobs/22423 </li>

@@ -14,7 +14,7 @@
   
 **Nossas Vagas**
 <ul>
-  <li> Developers Back-end - https://b2w.gupy.io/jobs/7956 </li>
+  <li> Developers Back-end - https://b2w.gupy.io/jobs/23866 </li>
   <li> Developers Back-end Pl/Sr - https://b2w.gupy.io/jobs/22423 </li>
   <li> Developers Back-end Python Pl/Sr - https://b2w.gupy.io/jobs/21790 </li>
   <li> Developers Front-end - https://b2w.gupy.io/jobs/19700 </li>

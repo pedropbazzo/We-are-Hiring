@@ -1,3 +1,8 @@
+
+![B2W Digital](https://b2wdigital-prod.imgix.net/upload/marcasenumeros/00001656.jpg) 
+![B2W Digital](https://b2wdigital-prod.imgix.net/upload/marcasenumeros/00001653.jpg)
+![B2W Digital](https://b2wdigital-prod.imgix.net/upload/marcasenumeros/00001655.jpg)
+![B2W Digital](https://b2wdigital-prod.imgix.net/upload/marcasenumeros/00001654.jpg)
 # We are Hiring
 
 *Venha fazer parte da maior plataforma digital da américa latina*

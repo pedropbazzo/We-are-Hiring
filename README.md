@@ -1,6 +1,6 @@
 ## We are Hiring
 
-*Venha fazer parte da maior plataforma digital da américa latina*
+*Venha fazer parte da B2W Digital. A maior plataforma digital da américa latina*
 
 <p align="center">
   <img src="https://b2wdigital-prod.imgix.net/upload/marcasenumeros/00001656.jpg" alt="B2W Digital" width="180px" />

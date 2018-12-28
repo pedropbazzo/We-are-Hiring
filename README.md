@@ -15,7 +15,6 @@ Nosso propósito é conectar pessoas, negócios, produtos e serviços em uma mes
 
 Líder na América Latina, a B2W Digital tem um modelo de negócio único, multicanal, multimarca e multinegócio. A Companhia atua nas seguintes frentes: e-commerce nas marcas Americanas.com, Submarino, Shoptime e Sou Barato; plataformas de serviços de crédito ao consumidor, com o Submarino Finance e o Digital Finance; plataforma de tecnologia; plataforma de logística, distribuição e atendimento ao cliente; e Marketplace.
 
-
 **Coisas bacanas que fazemos**
 - 180 page-views por segundo;
 - 21 milhões de visitantes únicos por mês (ou 270 Maracanãs lotados);
@@ -53,7 +52,11 @@ Neste ano, voltamos com o Estágio Bit, nosso programa de estágio, e vamos form
 - Campus Party - https://campuse.ro/events/campus-party-brasil-2017/talk/submarino-cpbr10/
 - Velocity - https://conferences.oreilly.com/velocity/vl-ca-2016/public/schedule/detail/51193
 - Blog de tecnologia - https://medium.com/b2w-engineering
+- Nossos Resultados Financeiros - https://ri.b2w.digital/
 
+**Onde estamos**
+- Rio de Janeiro - Bairro da Saúde - Rua Sacadura Cabral, 130
+- São Paulo - Bairro Vila Olimpia - Rua Fidêncio Ramos, 302
 
 
 Se você é apaixonado pelo que faz e curtiu os nossos desafios, seu lugar é aqui.

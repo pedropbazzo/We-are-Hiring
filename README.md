@@ -23,6 +23,13 @@ Líder na América Latina, a B2W Digital tem um modelo de negócio único, multi
 - Terabytes de dados são gerados todos os dias.
 
 
+<p align="center">
+  <img src="https://gallery.mailchimp.com/690273598e6b17ca3a786d15d/images/2c7ead52-7dad-48d2-891e-1b8ee637eb8b.png" alt="B2W Digital" width="500px" />
+
+</p>
+
+
+
 Para isso, precisamos operar alguns dos sistemas mais robustos e complexos da internet. Por trás deles, está uma arquitetura state-of-the-art que combina os padrões e tecnologias mais modernas do mercado. São centenas de aplicações diferentes rodando em ambiente de alta-escalabilidade e que precisam responder muito rápido para não deixar nossos clientes esperando. Até mesmo no Black Friday, quando tudo que construímos é posto à prova. Nesse evento, as interações com os sites aumentam 20 vezes, em média.
 
 A plataforma da B2W foi criada para conectar pessoas, negócios, produtos e serviços. Por mais impressionantes que sejam os números dos nossos sites, eles são apenas uma parte da solução. Temos diversos outros negócios que impulsionam uns aos outros, gerando uma enorme sinergia. E quem sai ganhando no final são os nossos clientes.

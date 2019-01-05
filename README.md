@@ -81,6 +81,26 @@ Caso você esteja buscando um local onde possa adquirir novos conhecimentos e co
 - Developers Front-end - https://b2w.gupy.io/jobs/19700
 - Outras vagas - https://b2w.gupy.io/
 
+**Nosso Programa de Estágio**
+<p align="center">
+  <img src="http://estagiobit.b2w.io/assets/logo.png" alt="B2W Digital" width="720px" />
+</p>
+
+ </h2>
+          <p>
+            Aqui você vai encontrar projetos de AI, Machine Learning e Big Data,
+            além de poder atuar no desenvolvimento de nossas plataformas de
+            e-commerce, marketplace e mobile.
+          </p>
+          <p>
+            Estamos buscando alunos de graduação para fazer parte do Estágio BIT
+            2019. Durante 6 meses, você será treinado para se tornar um
+            desenvolvedor júnior.
+            Venha fazer parte do nosso time! Saiba mais detalhes no Link: http://estagiobit.b2w.io/
+    </p>
+
+
+
 **Vem participar do nosso canal no Telegram**
 
 [https://t.me/Vagastech](https://t.me/Vagastech)
